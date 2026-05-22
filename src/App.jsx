@@ -8,4 +8,4 @@ const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
 
 const GENRES = ["Pop", "Hip-Hop", "Rock", "R&B", "Eletrônico", "Sertanejo", "Funk", "Jazz", "Lo-fi", "K-Pop"];
 const MOODS = ["Animado", "Melancólico", "Romântico", "Intenso", "Relaxante", "Épico", "Rebelde", "Sonhador"];
-const INSTRUMENTS = ["Guitar…
+const INSTRUMENTS = ["Guitarra", "Piano", "Bateria", "Baixo", "Sintetizador", "Violão", "Violino", "Trompete"];
