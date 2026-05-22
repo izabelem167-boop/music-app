@@ -14,7 +14,7 @@ const GENRES = ["Pop", "Hip-Hop", "Rock", "R&B", "Eletrônico", "Sertanejo", "Fu
 
 const MOODS = ["Animado", "Melancólico", "Romântico", "Intenso", "Relaxante", "Épico", "Rebelde", "Sonhador"];
 
-const INSTRUMENTS = ["Guitarra", "Piano", "Bateria", "Baixo", "Sintetizador", "Violão", "Violino", "Trompete"];function App() {
+function App() {
   return (
     <div>
       <h1>MusicAI</h1>
@@ -22,4 +22,4 @@ const INSTRUMENTS = ["Guitarra", "Piano", "Bateria", "Baixo", "Sintetizador", "V
   );
 }
 
-export default App
+export default App;
